@@ -6,4 +6,10 @@ body {
 section {
 background: #000;
 color: white;
+display: grid;
+height: 100vh;
+}
+
+h1 {
+    margin: auto;
 }
